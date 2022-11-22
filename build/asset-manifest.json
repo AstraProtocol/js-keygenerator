@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/js-keygenerator/static/css/main.2f1e7520.chunk.css",
+    "main.js": "/js-keygenerator/static/js/main.e51f5efe.chunk.js",
+    "main.js.map": "/js-keygenerator/static/js/main.e51f5efe.chunk.js.map",
+    "runtime-main.js": "/js-keygenerator/static/js/runtime-main.e177bfc8.js",
+    "runtime-main.js.map": "/js-keygenerator/static/js/runtime-main.e177bfc8.js.map",
+    "static/css/2.a7f07a6b.chunk.css": "/js-keygenerator/static/css/2.a7f07a6b.chunk.css",
+    "static/js/2.3882c093.chunk.js": "/js-keygenerator/static/js/2.3882c093.chunk.js",
+    "static/js/2.3882c093.chunk.js.map": "/js-keygenerator/static/js/2.3882c093.chunk.js.map",
+    "index.html": "/js-keygenerator/index.html",
+    "static/css/2.a7f07a6b.chunk.css.map": "/js-keygenerator/static/css/2.a7f07a6b.chunk.css.map",
+    "static/css/main.2f1e7520.chunk.css.map": "/js-keygenerator/static/css/main.2f1e7520.chunk.css.map",
+    "static/js/2.3882c093.chunk.js.LICENSE.txt": "/js-keygenerator/static/js/2.3882c093.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e177bfc8.js",
+    "static/css/2.a7f07a6b.chunk.css",
+    "static/js/2.3882c093.chunk.js",
+    "static/css/main.2f1e7520.chunk.css",
+    "static/js/main.e51f5efe.chunk.js"
+  ]
+}
